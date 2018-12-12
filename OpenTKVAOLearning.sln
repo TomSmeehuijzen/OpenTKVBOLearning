@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenTKVAOLearning", "OpenTKVAOLearning\OpenTKVAOLearning.csproj", "{731B2C23-62F4-492E-8D35-91A63430A25D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{731B2C23-62F4-492E-8D35-91A63430A25D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{731B2C23-62F4-492E-8D35-91A63430A25D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{731B2C23-62F4-492E-8D35-91A63430A25D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{731B2C23-62F4-492E-8D35-91A63430A25D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4A6D26D-0DE4-4640-B3DB-A8AC9C051AA2}
+	EndGlobalSection
+EndGlobal
