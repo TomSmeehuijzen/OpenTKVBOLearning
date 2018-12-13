@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenTKVAOLearning", "OpenTKVAOLearning\OpenTKVAOLearning.csproj", "{731B2C23-62F4-492E-8D35-91A63430A25D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenTKVBOLearning", "OpenTKVBOLearning\OpenTKVBOLearning.csproj", "{731B2C23-62F4-492E-8D35-91A63430A25D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
